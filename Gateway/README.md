@@ -1,3 +1,11 @@
-# LoRa
-LoRaWAN1.0.2/1.1
-++
+# LoRaGateway
+0409:
+
+Usable
+
+0418:
+Fix some problem
+
+0604:
+
+Fix header of payload size 
