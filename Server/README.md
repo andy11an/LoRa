@@ -1,3 +1,11 @@
-# LoRa
-LoRaWAN1.0.2/1.1
-++
+0409:
+
+For end device transmit sensor's data
+
+0604:
+
+For ADR teseting version
+
+MQTT:
+
+MQTT topic downlink can work
